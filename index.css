@@ -64,3 +64,16 @@ button:hover{
 .haveanaccount{
     float: right;
 }
+.flower-img{
+    position: absolute;
+    bottom: 0;
+    right:0;
+    width:400px;
+    overflow:hidden;
+}
+.ballon-img{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
